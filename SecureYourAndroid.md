@@ -14,7 +14,7 @@ These updates will have important security patches.  Not doing an update can lea
 For an added layer of protection we recommend AppLock for Android. You can find this app at the Google Play store.
 * **Turn Off Location Services For All But Necessary Actions.**  
 Go to `Settings->Personal->Location`. To reduce the risk of location tracking don’t have services running by default in the background, it will saving battery power and reducing unwanted data streams initiated by applications and your mobile carrier. That said your phone can still reveal your location through triangulation so be intentional about when and where you take it.
-* **Install VYPRVPN And ORBOT/ORFOX Apps on your phone to protect your network access.** 
+* **Install VyprVPN And Orbot/Orfox Apps on your phone to protect your network access.** 
 This allows you to anonymize your network traffic and bypass filtering happening at your internet service provider. You can find this app at the Google Play store. Learn more at https://goldenfrog.com/vyprvpn
 * **Install Duckduckgo As Your New Web Browser And Search Engine.**  
 Duckduckgo does not track your data, you can be confident that you are not growing a data profile, which can be used to profile you by corporations and the government. You can find this app at the Google Play store. Learn more at https://duckduckgo.com

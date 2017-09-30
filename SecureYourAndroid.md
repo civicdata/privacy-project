@@ -1,7 +1,7 @@
 # Secure Your Android
 
 * **Use A Pin Passcode.** 
-Never se Touch ID as it can be compromised. Make your PIN strong and at least 8 digits. You can find this for Androids under `Settings->Personal->Security->Screen Lock`.
+Never use Touch ID as it can be compromised. Make your PIN strong and at least 8 digits. You can find this for Androids under `Settings->Personal->Security->Screen Lock`.
 * **Encrypt And Back Up Your Phone.** 
 This is automatic with recent versions of Androids. If your device uses Android version 4.0 or newer, you should verify that device encryption is turned on. This can be done in `Settings->Personal->Security->Encryption`. If it is not follow the steps to encrypt. But just make sure that before starting the encryption process you back up your data, ensure the phone is fully charged and plugged into a power source.
 * **Set Your Screen To Lock When Not In Use.** 
